@@ -12,6 +12,7 @@ const i18nLangs: Array<{ label: string; i18nLang: string }> = [
         label: 'Русский',
         i18nLang: 'ru',
     },
+    {
         label: '中文',
         i18nLang: 'zh',
     },
