@@ -9,7 +9,7 @@
         "assets": [{
         "base": "award",
         "symbol": "WARD",
-        "exponent": "6",
+        "exponent": "18",
         "logo": "https://github.com/g7AzaZLO/explorer-logo/blob/main/warden.png?raw=true"
         }],
     "addr_prefix": "warden",
