@@ -39,11 +39,11 @@ const chainStore = useBlockchain()
 </script>
 <template>
   <div class="">
-    <div class="flex md:!flex-row flex-col items-center justify-center mb-6 mt-14 gap-2">
-      <h1 class="text-primary dark:invert text-3xl md:!text-6xl font-bold">
-        {{ $t('pages.title') }}
-      </h1>
-    </div>
+        <div class="flex md:!flex-row flex-col items-center justify-center mb-6 mt-14 gap-2">
+          <h1 class="text-[#22E6FF] dark:invert text-3xl md:!text-6xl font-bold">
+            {{ $t('pages.title') }}
+          </h1>
+        </div>
     <div class="text-center text-base">
       <p class="mb-1">
         {{ $t('pages.slogan') }}
