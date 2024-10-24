@@ -273,6 +273,18 @@ dayjs()
           </div>
         </a>
         <a
+          href="https://t.me/g7team_chat"
+          target="_blank"
+          class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <Icon icon="mdi:chat" class="text-xl mr-2" />
+          <div
+            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
+          >
+            Chat
+          </div>
+        </a>
+        <a
           href="https://github.com/g7AzaZLO"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
@@ -285,15 +297,15 @@ dayjs()
           </div>
         </a>
         <a
-          href="https://t.me/g7team_chat"
+          href="https://www.youtube.com/@g7team"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
-          <Icon icon="mdi:chat" class="text-xl mr-2" />
+          <Icon icon="mdi:youtube" class="text-xl mr-2" />
           <div
             class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            Chat
+            YouTube
           </div>
         </a>
       </div>
