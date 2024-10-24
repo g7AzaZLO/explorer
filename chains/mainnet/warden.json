@@ -1,5 +1,5 @@
 {
-    "chain_name": "Warden Protocol Testnet",
+    "chain_name": "Warden-Testnet",
     "api": [{"provider": "G7", "address": "https://warden-testnet-api.g7team.tech/"}],
     "rpc": [{"provider": "G7", "address": "https://warden-testnet-rpc.g7team.tech/"}],
     "snapshot_provider": "",
