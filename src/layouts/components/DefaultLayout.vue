@@ -308,6 +308,30 @@ dayjs()
             YouTube
           </div>
         </a>
+        <a
+          href="https://teletype.in/@g7monitor"
+          target="_blank"
+          class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <Icon icon="mdi:teletype" class="text-xl mr-2" />
+          <div
+            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
+          >
+            Teletype
+          </div>
+        </a>
+        <a
+          href="https://www.notion.so/g7node/G7-team-1fb386cce61747eaa6483dcf639ed0ber"
+          target="_blank"
+          class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
+        >
+          <Icon icon="mdi:notion" class="text-xl mr-2" />
+          <div
+            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
+          >
+            Notion
+          </div>
+        </a>
       </div>
     </div>
     <div class="xl:!ml-64 px-3 pt-4">
