@@ -12,6 +12,29 @@ const i18nLangs: Array<{ label: string; i18nLang: string }> = [
         label: 'Русский',
         i18nLang: 'ru',
     },
+        label: '中文',
+        i18nLang: 'zh',
+    },
+    {
+        label: 'Indonesian',
+        i18nLang: 'id',
+    },
+    {
+        label: '日本語',
+        i18nLang: 'ja',
+    },
+    {
+        label: '한국인',
+        i18nLang: 'ko',
+    },
+    {
+        label: 'Deutsch',
+        i18nLang: 'de',
+    },
+    {
+        label: 'Español',
+        i18nLang: 'es',
+    },
 ];
 
 let locale = ref(useI18n({ useScope: 'global' }).locale);
