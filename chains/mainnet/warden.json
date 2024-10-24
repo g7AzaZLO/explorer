@@ -6,7 +6,7 @@
     "sdk_version": "0.46.1",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "warden",
+    "addr_prefix": "WARD",
     "logo": "https://github.com/g7AzaZLO/explorer-logo/blob/main/warden.png?raw=true",
     "theme_color": "#812cd6"
 }
