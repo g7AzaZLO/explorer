@@ -11,24 +11,18 @@
       By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://ping.pub"
+        href="https://t.me/g7monitor"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
+        >G7[team]</a
       >
     </div>
     <div
       class="hidden md:!block"
     >
       <a
-        class="link link-primary no-underline mr-4"
-        href="https://github.com/ping-pub/explorer/blob/master/LICENSE"
-        target="noopener noreferrer"
-        >License</a
-      >
-      <a
         class="link link-primary no-underline"
-        href="https://github.com/ping-pub/explorer"
+        href="https://github.com/g7AzaZLO/explorer"
         target="noopener noreferrer"
         >Github</a
       >
