@@ -1,0 +1,12 @@
+{
+    "chain_name": "Warden Protocol Testnet",
+    "api": [{"provider": "G7", "address": "https://warden-testnet-api.g7team.tech/"}],
+    "rpc": [{"provider": "G7", "address": "https://warden-testnet-rpc.g7team.tech/"}],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "warden",
+    "logo": "https://github.com/g7AzaZLO/explorer-logo/blob/main/warden.png?raw=true",
+    "theme_color": "#812cd6"
+}
