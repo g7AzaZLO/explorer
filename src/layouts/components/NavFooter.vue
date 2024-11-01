@@ -11,7 +11,7 @@
       By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://t.me/g7monitor"
+        href="https://t.me/g7team_ru"
         target="_blank"
         rel="noopener noreferrer"
         >G7[team]</a
